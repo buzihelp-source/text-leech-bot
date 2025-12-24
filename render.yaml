@@ -8,11 +8,11 @@ services:
     branch: main
     autoDeploy: false
     envVars:
-      - key: BOT_TOKEN
+      - key: BOT_TOKEN "8551803950:AAEVdjf6EqoAlg21FEaxjQBJx0DrZsiyBak"
         sync: false
-      - key: API_ID
+      - key: API_ID "31138834"
         sync: false
-      - key: API_HASH
+      - key: API_HASH "a6e6098b319618f10693005ee7a77d92"
         sync: false
       - key: WEBHOOK
         sync: false
